@@ -2,7 +2,7 @@
 import openai
 
 # Đặt API Key của bạn ở đây
-openai.api_key = "YOUR_API_KEY"
+openai.api_key = "YOUR_API_KEY" =  API Key của Im lặng
 
 st.title("Trợ Lý A.I Cá Nhân")
 
